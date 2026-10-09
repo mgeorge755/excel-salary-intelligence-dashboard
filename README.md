@@ -1,8 +1,7 @@
 
 # Salary Intelligence Dashboard | Excel Data Analytics Project
 
-![Salary Intelligence Dashboard](dashboard.png)
-
+![Salary Intelligence Dashboard](dashboard.png?v=2)
 ## Project Overview
 
 Developed an interactive Excel dashboard analyzing 22,002 data-related job postings to identify salary trends, hiring patterns, and compensation differences across job roles, countries, and remote work arrangements.
